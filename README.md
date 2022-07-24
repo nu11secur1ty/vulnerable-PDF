@@ -13,5 +13,14 @@ Or you can use the `PDF` file to download the `calc.exe` into a forbidden direct
 
 ---------------------------------------------------------------------------------------------------------------------
 
+
+## vulnerable-PDF = `Calculator_512.pdf`
+`NOTE`: You can use `Calculator_512.pdf` to restart the `operation systems` like `Windows` 8,10 and 11 =)
+
+## WARNING! Only for tests and education =)
+
+---------------------------------------------------------------------------------------------------------------------
+
+
 ## m0r3:
 - soon =)
