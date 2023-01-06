@@ -1,4 +1,4 @@
-# FROM https://github.com/osnr/horrifying-pdf-experiments
+#! /usr/bin/python
 import sys
 
 from pdfrw import PdfWriter
