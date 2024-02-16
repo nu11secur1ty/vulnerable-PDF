@@ -1,1 +1,1 @@
-app.alert("document.cookie")
+app.alert('document.cookie')
